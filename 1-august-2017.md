@@ -17,3 +17,23 @@ The newsletter is for the community, and as such, we want to hear from you too! 
 
 We're currently working hard to finish preparations and ensure the success of this project. We're also looking for additional writers for the newsletter. For more information, please contact [VyrenGames](https://www.twitter.com/VyrenGames) on Twitter or through the TeamEmmmmsie Discord.
 
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell">Streamers of the Week</div>
+<div class="divTableCell">Events</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">[**twitch.tv/Lady\_Ravenwood**](http://twitch.tv/Yeomega)
+
+[**twitch.tv/FelixHergood**](http://twitch.tv/FelixHergood)
+
+[**twitch.tv/LarzasaurusRhex**](http://twitch.tv/LarzasaurusRhex)
+
+[**twitch.tv/Yeomega**](http://twitch.tv/Yeomega)
+
+</div>
+<div class="divTableCell">#HelpHoustonRise Charity Event</div>
+</div>
+</div>
+</div>
