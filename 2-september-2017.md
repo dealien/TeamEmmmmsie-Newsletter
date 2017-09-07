@@ -1,1 +1,6 @@
-This is the answer to "How can I do X?".
+---
+search:
+    keywords: ['keyword1', 'keyword2', 'etc.']
+---
+
+# TBD
