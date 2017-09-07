@@ -24,14 +24,14 @@ We're currently working hard to finish preparations and ensure the success of th
 <div class="divTableCell">Events</div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell">[**twitch.tv/Lady\_Ravenwood**](http://twitch.tv/Yeomega)
+<div class="divTableCell">
+[**twitch.tv/Lady\_Ravenwood**](http://twitch.tv/Yeomega)
 
 [**twitch.tv/FelixHergood**](http://twitch.tv/FelixHergood)
 
 [**twitch.tv/LarzasaurusRhex**](http://twitch.tv/LarzasaurusRhex)
 
 [**twitch.tv/Yeomega**](http://twitch.tv/Yeomega)
-
 </div>
 <div class="divTableCell">#HelpHoustonRise Charity Event</div>
 </div>
