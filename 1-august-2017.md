@@ -29,7 +29,11 @@ We're currently working hard to finish preparations and ensure the success of th
     <th class="tg-yw4l">Events</th>
   </tr>
   <tr>
-    <td class="tg-yw4l">[**twitch.tv/Lady\_Ravenwood**](http://twitch.tv/Yeomega)<br><br>[**twitch.tv/FelixHergood**](http://twitch.tv/FelixHergood)<br><br>[**twitch.tv/LarzasaurusRhex**](http://twitch.tv/LarzasaurusRhex)<br><br>[**twitch.tv/Yeomega**](http://twitch.tv/Yeomega)</td>
+    <td class="tg-yw4l">
+    <a href="twitch.tv/Lady\_Ravenwood">twitch.tv/Lady\Ravenwood</a><br><br>
+    <a href="twitch.tv/FelixHergood">twitch.tv/FelixHergood</a><br><br>
+    <a href="twitch.tv/LarzasaurusRhex">twitch.tv/LarzasaurusRhex</a><br><br>
+    <a href="twitch.tv/Yeomega">twitch.tv/Yeomega</a></td>
     <td class="tg-yw4l">#HelpHoustonRise charity event</td>
   </tr>
 </table>
