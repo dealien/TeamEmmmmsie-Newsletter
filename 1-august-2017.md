@@ -14,7 +14,6 @@ search:
 <span class="graphics-designer">EmpireGamesCA</span>
 </div>
 
-
 Hello, TeamEmmmmsie! I’m proud to announce the release of our first official team newsletter! Until now, the team hasn’t had a central news source, so most news came from posts from various mods on Twitter and Discord. As a result, people often didn’t know what was news and what wasn’t. Many of our members were left oblivious to important announcements and the many wonderful support opportunities this team has to offer.
 
 Through the newsletter, it is our hope to create a central, reliable, and entertaining source of information for all our members. We plan to provide interesting and informative content such as the history of TeamEmmmmsie, reports of any changes that affect the community, success stories from you and your fellow members, and information about upcoming team events.
