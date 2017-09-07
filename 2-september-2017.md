@@ -1,6 +1,6 @@
 ---
 search:
-    keywords: ['keyword1', 'keyword2', 'etc.']
+    keywords: ['September', 2017, VyrenGames]
 ---
 
 # TBD
