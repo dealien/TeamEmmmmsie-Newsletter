@@ -17,23 +17,19 @@ The newsletter is for the community, and as such, we want to hear from you too! 
 
 We're currently working hard to finish preparations and ensure the success of this project. We're also looking for additional writers for the newsletter. For more information, please contact [VyrenGames](https://www.twitter.com/VyrenGames) on Twitter or through the TeamEmmmmsie Discord.
 
-<div class="divTable">
-<div class="divTableBody">
-<div class="divTableRow">
-<div class="divTableCell">Streamers of the Week</div>
-<div class="divTableCell">Events</div>
-</div>
-<div class="divTableRow">
-<div class="divTableCell">
-[**twitch.tv/Lady\_Ravenwood**](http://twitch.tv/Yeomega)
-
-[**twitch.tv/FelixHergood**](http://twitch.tv/FelixHergood)
-
-[**twitch.tv/LarzasaurusRhex**](http://twitch.tv/LarzasaurusRhex)
-
-[**twitch.tv/Yeomega**](http://twitch.tv/Yeomega)
-</div>
-<div class="divTableCell">#HelpHoustonRise Charity Event</div>
-</div>
-</div>
-</div>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Streamers of the Week</th>
+    <th class="tg-yw4l">Events</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">[**twitch.tv/Lady\_Ravenwood**](http://twitch.tv/Yeomega)<br><br>[**twitch.tv/FelixHergood**](http://twitch.tv/FelixHergood)<br><br>[**twitch.tv/LarzasaurusRhex**](http://twitch.tv/LarzasaurusRhex)<br><br>[**twitch.tv/Yeomega**](http://twitch.tv/Yeomega)</td>
+    <td class="tg-yw4l">#HelpHoustonRise charity event</td>
+  </tr>
+</table>
