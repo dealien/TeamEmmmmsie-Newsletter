@@ -9,9 +9,9 @@ search:
 
 # Newsletter Introduction
 <div class="info-box">
-<span class="image-link">Image</span><br>
+<span class="image-link"><a href="/assets/Newsletter Introduction - August, 2017.png">Image</a></span><br>
 <span class="byline">By VyrenGames</span><br>
-<span class="graphics-designer">EmpireGamesCA</span>
+<span class="graphics-designer">Graphics By EmpireGamesCA</span>
 </div>
 
 Hello, TeamEmmmmsie! I’m proud to announce the release of our first official team newsletter! Until now, the team hasn’t had a central news source, so most news came from posts from various mods on Twitter and Discord. As a result, people often didn’t know what was news and what wasn’t. Many of our members were left oblivious to important announcements and the many wonderful support opportunities this team has to offer.
