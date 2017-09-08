@@ -1,1 +1,1 @@
-This is a temporary hosting platform for previous editions of the TeamEmmmmsie newsletter. Contact [VyrenGames](https://www.twitter.com/VyrenGames) on Twitter for more information. 
+This is a temporary hosting platform for previous editions of the TeamEmmmmsie newsletter. Contact [VyrenGames](https://www.twitter.com/VyrenGames) on Twitter or through the TeamEmmmmsie Discord for more information. 
