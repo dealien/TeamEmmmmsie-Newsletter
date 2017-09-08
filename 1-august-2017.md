@@ -10,7 +10,7 @@ search:
 # Newsletter Introduction
 <div class="info-box">
 <span class="image-link"><a href="/assets/Newsletter Introduction - August, 2017.png">Image Version</a></span><br>
-<span class="byline">By <a href="https://www.twitter.com/VyrenGames">VyrenGames</a></span><br>
+<span class="byline">Written By <a href="https://www.twitter.com/VyrenGames">VyrenGames</a></span><br>
 <span class="graphics-designer">Graphics By <a href="https://twitter.com/EmpireGamesCA">EmpireGamesCA</a></span>
 </div>
 
