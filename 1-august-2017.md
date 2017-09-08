@@ -40,6 +40,6 @@ We're currently working hard to finish preparations and ensure the success of th
     <a href="twitch.tv/LarzasaurusRhex">twitch.tv/LarzasaurusRhex</a><br>
     <a href="twitch.tv/Yeomega">twitch.tv/Yeomega</a></td>
     <td class="tg-yw4l">#HelpHoustonRise charity event<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;Aug 29 - Sep 3</td>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 29 - Sep 3</td>
   </tr>
 </table>
