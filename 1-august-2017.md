@@ -21,7 +21,7 @@ Through the newsletter, it is our hope to create a central, reliable, and entert
 The newsletter is for the community, and as such, we want to hear from you too! We endeavor to make ourselves as accessible as possible, and we encourage you, our readers, to send us all your questions, comments, suggestions, pretty much anything. We also plan to offer a column called the “Community Article.” For this column, we will randomly select a topic from a pool of reader-submitted possibilities. If there’s a team-relevant topic you think would be of interest to people, let us know!
 
 We're currently working hard to finish preparations and ensure the success of this project. We're also looking for additional writers for the newsletter. For more information, please contact [VyrenGames](https://www.twitter.com/VyrenGames) on Twitter or through the TeamEmmmmsie Discord.
-
+ 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
