@@ -9,7 +9,7 @@ search:
 
 # Newsletter Introduction
 <div class="info-box">
-<span class="image-link"><a href="/assets/Newsletter Introduction - August, 2017.png">Image</a></span><br>
+<span class="image-link"><a href="/assets/Newsletter Introduction - August, 2017.png">Image Version</a></span><br>
 <span class="byline">By <a href="https://www.twitter.com/VyrenGames">VyrenGames</a></span><br>
 <span class="graphics-designer">Graphics By <a href="https://twitter.com/EmpireGamesCA">EmpireGamesCA</a></span>
 </div>
@@ -39,6 +39,7 @@ We're currently working hard to finish preparations and ensure the success of th
     <a href="twitch.tv/FelixHergood">twitch.tv/FelixHergood</a><br>
     <a href="twitch.tv/LarzasaurusRhex">twitch.tv/LarzasaurusRhex</a><br>
     <a href="twitch.tv/Yeomega">twitch.tv/Yeomega</a></td>
-    <td class="tg-yw4l">#HelpHoustonRise charity event</td>
+    <td class="tg-yw4l">#HelpHoustonRise charity event<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Aug 29 - Sep 3</td>
   </tr>
 </table>
