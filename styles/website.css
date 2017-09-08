@@ -6,7 +6,10 @@
     border-width: 2px;
     border-color: #eee;
     background-color: #eee;
-    margin: 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
 }
 
 .info-box a {
