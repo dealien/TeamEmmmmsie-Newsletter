@@ -8,7 +8,7 @@ search:
 ---
 
 # Newsletter Introduction
-<div class="infobox">
+<div class="infobox flowbox">
 <div class='wave -one'></div>
 <div class='wave -two'></div>
 <div class='wave -three'></div>
