@@ -137,6 +137,7 @@
 
 .divTableRow {
   display: table-row;
+  height: 50%;
 }
 
 .divTableHeading {
