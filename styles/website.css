@@ -97,15 +97,15 @@
     animation: drift 3000ms infinite linear;
 }
 
-.wave.-three {
-    animation: drift 5000ms infinite linear;
-}
-
 .wave.-two {
     animation: drift 7000ms infinite linear;
     opacity: .1;
     background: yellow;
+}.wave.-three {
+    animation: drift 5000ms infinite linear;
 }
+
+
 
 @keyframes drift {
     from {
@@ -169,3 +169,10 @@
     width: 300px;
     background: #eee;
 }
+.wave.team {
+    top: -500%;
+    left: 50%;
+    width: 700px;
+    height: 700px;
+}
+
