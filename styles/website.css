@@ -1,173 +1,175 @@
 .infobox {
-  display: block;
-  right: 200px;
-  float: right;
-  border-style: solid;
-  border-width: 2px;
-  border-color: #eee;
-  background-color: #eee;
-  padding-left: 5px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-right: 5px;
+    display: block;
+    right: 200px;
+    float: right;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #eee;
+    background-color: #eee;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
 }
 
 .infobox a {
-  font-size: 10pt;
+    font-size: 10pt;
 }
 
 .flowbox {
-  overflow: hidden;
-  border-radius: 5px;
-  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.2);
-  transform: translate3d(0, 0, 0);
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 2px 30px rgba(0, 0, 0, 0.2);
+    transform: translate3d(0, 0, 0);
 }
 
 .flowbox:after {
-  content: '';
-  display: block;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to bottom, #ee88aa, rgba(221, 238, 255, 0) 80%, rgba(255, 255, 255, 0.5));
-  z-index: 11;
-  transform: translate3d(0, 0, 0);
+    content: '';
+    display: block;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #ee88aa, rgba(221, 238, 255, 0) 80%, rgba(255, 255, 255, 0.5));
+    z-index: 11;
+    transform: translate3d(0, 0, 0);
 }
 
 .shadow-2:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  width: inherit;
-  height: inherit;
-  z-index: -2;
-  -webkit-border-radius: inherit;
-  -webkit-background-clip: padding-box;
-  -moz-border-radius: inherit;
-  -moz-background-clip: padding;
-  border-radius: inherit;
-  background-clip: padding-box;
-  pointer-events: none;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
-  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: inherit;
+    height: inherit;
+    z-index: -2;
+    -webkit-border-radius: inherit;
+    -webkit-background-clip: padding-box;
+    -moz-border-radius: inherit;
+    -moz-background-clip: padding;
+    border-radius: inherit;
+    background-clip: padding-box;
+    pointer-events: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
 }
 
 .shadow-1:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  width: inherit;
-  height: inherit;
-  z-index: -2;
-  -webkit-border-radius: inherit;
-  -webkit-background-clip: padding-box;
-  -moz-border-radius: inherit;
-  -moz-background-clip: padding;
-  border-radius: inherit;
-  background-clip: padding-box;
-  pointer-events: none;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  -moz-box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: inherit;
+    height: inherit;
+    z-index: -2;
+    -webkit-border-radius: inherit;
+    -webkit-background-clip: padding-box;
+    -moz-border-radius: inherit;
+    -moz-background-clip: padding;
+    border-radius: inherit;
+    background-clip: padding-box;
+    pointer-events: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .wave {
-  opacity: .1;
-  position: absolute;
-  top: -500%;
-  left: 50%;
-  background: #0af;
-  width: 700px;
-  height: 700px;
-  margin-left: -250px;
-  margin-top: -250px;
-  transform-origin: 50% 48%;
-  border-radius: 43%;
-  animation: drift 3000ms infinite linear;
+    opacity: .1;
+    position: absolute;
+    top: -500%;
+    left: 50%;
+    background: #0af;
+    width: 700px;
+    height: 700px;
+    margin-left: -250px;
+    margin-top: -250px;
+    transform-origin: 50% 48%;
+    border-radius: 43%;
+    animation: drift 3000ms infinite linear;
 }
 
 .wave.-three {
-  animation: drift 5000ms infinite linear;
+    animation: drift 5000ms infinite linear;
 }
 
 .wave.-two {
-  animation: drift 7000ms infinite linear;
-  opacity: .1;
-  background: yellow;
+    animation: drift 7000ms infinite linear;
+    opacity: .1;
+    background: yellow;
 }
 
 @keyframes drift {
-  from {
-    transform: rotate(0deg);
-  }
-  from {
-    transform: rotate(360deg);
-  }
+    from {
+        transform: rotate(0deg);
+    }
+
+    from {
+        transform: rotate(360deg);
+    }
 }
+
 .box:after {
-  content: '';
-  display: block;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to bottom, #ee88aa, rgba(221, 238, 255, 0) 80%, rgba(255, 255, 255, 0.5));
-  z-index: 11;
-  transform: translate3d(0, 0, 0);
+    content: '';
+    display: block;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #ee88aa, rgba(221, 238, 255, 0) 80%, rgba(255, 255, 255, 0.5));
+    z-index: 11;
+    transform: translate3d(0, 0, 0);
 }
 
 .divTable {
-  display: table;
-  width: 100%;
+    display: table;
+    width: 100%;
 }
 
 .divTableRow {
-  display: table-row;
-  height: 50%;
+    display: table-row;
+    height: 50%;
 }
 
 .divTableHeading {
-  background-color: #EEE;
-  display: table-header-group;
+    background-color: #EEE;
+    display: table-header-group;
 }
 
 .divTableCell, .divTableHead {
-  border: 1px solid #999999;
-  display: table-cell;
-  padding: 3px 10px;
+    border: 1px solid #c3c3c3;
+    display: table-cell;
+    padding: 3px 10px;
 }
 
 .divTableHeading {
-  background-color: #EEE;
-  display: table-header-group;
-  font-weight: bold;
+    background-color: #EEE;
+    display: table-header-group;
+    font-weight: bold;
 }
 
 .divTableFoot {
-  background-color: #EEE;
-  display: table-footer-group;
-  font-weight: bold;
+    background-color: #EEE;
+    display: table-footer-group;
+    font-weight: bold;
 }
 
 .divTableBody {
-  display: table-row-group;
+    display: table-row-group;
 }
 
 #team-box {
-  width: 300px;
-  background: #fbfcee;
+    width: 300px;
+    background: #fbfcee;
 }
