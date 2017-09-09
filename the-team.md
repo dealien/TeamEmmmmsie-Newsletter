@@ -1,6 +1,9 @@
 # The Team
 
 <div id="team-box" class="flowbox">
+<div class='wave -one'></div>
+<div class='wave -two'></div>
+<div class='wave -three'></div>
   <div class="divTable">
     <div class="divTableBody">
       <div class="divTableRow">
