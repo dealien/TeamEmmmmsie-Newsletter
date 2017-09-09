@@ -1,4 +1,4 @@
-.info-box {
+.infobox {
     display: block;
     right: 200px;
     float: right;
@@ -12,6 +12,16 @@
     padding-right: 5px;
 }
 
-.info-box a {
+.infobox a {
     font-size: 10pt;
+}.infobox::before{
+content: "";
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 12px;
+    transform: translate(-50px, 10px) skew(10deg, 10deg) rotate(-50deg);
+    border-left: 1px dashed rgba(0, 0, 0, 0.1);
+    border-right: 1px dashed rgba(0, 0, 0, 0.1);
+    background: -webkit-gradient(linear, 555% 20%, 0% 92%, from(rgba(0, 0, 0, 0.1)), color-stop(0.1, rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0)));
 }
