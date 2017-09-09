@@ -10,13 +10,16 @@
     padding-top: 5px;
     padding-bottom: 5px;
     padding-right: 5px;
-    overflow: hidden;
-    border-radius: 5px;
-    box-shadow: 0 2px 30px rgba(0, 0, 0, 0.2);
-    transform: translate3d(0, 0, 0);
+
 }
 
-.infobox:after {
+
+.infobox a {
+    font-size: 10pt;
+}.flowbox{overflow: hidden;
+border-radius: 5px;
+box-shadow: 0 2px 30px rgba(0, 0, 0, 0.2);
+transform: translate3d(0, 0, 0);}.flowbox:after {
     content: '';
     display: block;
     left: 0;
@@ -28,9 +31,7 @@
     transform: translate3d(0, 0, 0);
 }
 
-.infobox a {
-    font-size: 10pt;
-}
+
 
 .shadow-2:before {
     content: "";
@@ -107,6 +108,17 @@
     background: yellow;
 }
 
+
+@keyframes drift {
+    from {
+        transform: rotate(0deg);
+    }
+
+    from {
+        transform: rotate(360deg);
+    }
+}
+
 .box:after {
     content: '';
     display: block;
@@ -119,12 +131,3 @@
     transform: translate3d(0, 0, 0);
 }
 
-@keyframes drift {
-    from {
-        transform: rotate(0deg);
-    }
-
-    from {
-        transform: rotate(360deg);
-    }
-}
