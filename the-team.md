@@ -1,6 +1,6 @@
 # The Team
 
-<div id="the-team" class="flowbox">
+<div id="team-box" class="flowbox">
   <div class="divTable">
     <div class="divTableBody">
       <div class="divTableRow">
