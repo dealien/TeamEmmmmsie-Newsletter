@@ -13,7 +13,7 @@ search:
   <div class='wave -two'></div>
   <div class='wave -three'></div>
 <span class="byline">Written By <a href="https://www.twitter.com/VyrenGames">VyrenGames</a></span><br>
-<span class="graphics-designer">Graphics By <a href="https://twitter.com/EmpireGamesCA">EmpireGamesCA</a></span><br>
+<span class="graphics-designer">Graphics By <a href="https://twitter.com/EmpireGamesCA">EmpireGames</a></span><br>
 <span class="image-link"><a href="/assets/Newsletter Introduction - August, 2017.png">Image Version</a></span><br>
 </div>
 
