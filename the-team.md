@@ -1,9 +1,9 @@
 # The Team
 
 <div id="team-box" class="flowbox">
-<div class='wave -one' style="top: -500%; left: 50%; width: 700px; height: 700px;"></div>
-<div class='wave -two' style="top: -500%; left: 50%; width: 700px; height: 700px;"></div>
-<div class='wave -three' style="top: -500%; left: 50%; width: 700px; height: 700px;"></div>
+<div class='team wave -one' style="top: -500%; left: 50%; width: 700px; height: 700px;"></div>
+<div class='team wave -two' style="top: -500%; left: 50%; width: 700px; height: 700px;"></div>
+<div class='team wave -three' style="top: -500%; left: 50%; width: 700px; height: 700px;"></div>
   <div class="divTable">
     <div class="divTableBody">
       <div class="divTableRow">
