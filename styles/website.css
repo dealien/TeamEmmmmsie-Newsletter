@@ -169,10 +169,9 @@
     width: 300px;
     background: #eee;
 }
+
 .wave.team {
-    top: -500%;
-    left: 50%;
+    left: 180%;
     width: 700px;
     height: 700px;
 }
-
