@@ -171,7 +171,8 @@
 }
 
 .wave.team {
-    left: 180%;
+    top: 0%;
+    left: 175%;
     width: 700px;
     height: 700px;
 }
