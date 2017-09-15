@@ -14,7 +14,7 @@ search:
 <div class='wave -three'></div>
 <span class="byline">Written By <a href="https://www.twitter.com/VyrenGames">VyrenGames</a></span><br>
 <span class="graphics-designer">Graphics By <a href="https://twitter.com/EmpireGamesCA">EmpireGames</a></span><br>
-<span class="image-link"><a href="/assets/Newsletter Introduction - August, 2017.png" target="_blank">Image Version</a></span><br>
+<span class="image-link"><a class="image-version" href="/assets/Newsletter Introduction - August, 2017.png" target="_blank">Image Version</a></span><br>
 </div>
 
 Hello, TeamEmmmmsie! I’m proud to announce the release of our first official team newsletter! Until now, the team hasn’t had a central news source, so most news came from posts from various mods on Twitter and Discord. As a result, people often didn’t know what was news and what wasn’t. Many of our members were left oblivious to important announcements and the many wonderful support opportunities this team has to offer.
