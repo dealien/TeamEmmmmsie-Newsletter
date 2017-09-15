@@ -96,6 +96,7 @@ a.image-link {
     transform-origin: 50% 48%;
     border-radius: 43%;
     animation: drift 3000ms infinite linear;
+    z-index:-1;
 }
 
 .wave.-two {
